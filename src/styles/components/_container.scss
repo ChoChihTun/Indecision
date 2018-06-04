@@ -1,0 +1,6 @@
+// Center the elements
+.container {
+  max-width: 60rem; // Always 60rem instead of 100% of the container size
+  margin: 0 auto;
+  padding: 0 $m-size;
+}
